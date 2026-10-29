@@ -1,0 +1,16 @@
+{
+  "raw_events": 641490,
+  "sessions": 83224,
+  "students": 10044,
+  "date_min": "2022-02-01 01:53:31.170000",
+  "date_max": "2022-09-30 11:03:43.307000",
+  "in_scope_events": 512821,
+  "in_scope_students": 10044,
+  "in_scope_exits": 9426,
+  "in_scope_exits_pause": 19470,
+  "in_scope_exits_noreturn": 5930,
+  "sessions_not_reaching_Q5": 9426,
+  "students_with_year_group": 10040,
+  "constructs_mapped_to_subject": 0.9250457038391224,
+  "within_session_gaps_gt_24h": 6348
+}

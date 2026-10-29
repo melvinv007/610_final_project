@@ -1,0 +1,18 @@
+# raw data (not ours to redistribute) and big intermediate files
+Datasets/
+data_work/
+# python / latex / preview junk
+__pycache__/
+*.pyc
+analysis/_tmp_view/
+report/_preview/
+report/*.aux
+report/*.log
+report/*.out
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+report/*.bbl
+report/*.blg
+report/build.log
+logs/

@@ -1,0 +1,102 @@
+{
+  "topic_level": {
+    "rho": {
+      "mean": 0.3162957555491484,
+      "lo": 0.22257764477510875,
+      "hi": 0.425320517852542,
+      "n_runs": 100
+    },
+    "sb": {
+      "mean": 0.4777168580214431,
+      "lo": 0.36411028562541076,
+      "hi": 0.5967923979099555,
+      "n_runs": 100
+    },
+    "rho_n30": {
+      "mean": 0.3488399358879201,
+      "lo": 0.2439905696030201,
+      "hi": 0.4610806312067077,
+      "n_runs": 100
+    },
+    "n_topics": {
+      "mean": 148.89,
+      "lo": 147.0,
+      "hi": 151.0,
+      "n_runs": 100
+    },
+    "n_flagged_A": {
+      "mean": 1.39,
+      "lo": 0.0,
+      "hi": 4.5249999999999915,
+      "n_runs": 100
+    },
+    "oe_B_flagged": {
+      "mean": 1.2759418808834289,
+      "lo": 0.8782304112387151,
+      "hi": 1.6826552225540867,
+      "n_runs": 64
+    },
+    "oe_B_unflagged": {
+      "mean": 1.0079496788808662,
+      "lo": 0.9751660936694265,
+      "hi": 1.0378468760737218,
+      "n_runs": 64
+    },
+    "share_flagged_above_expected_B": {
+      "mean": 0.8614583333333333,
+      "lo": 0.0,
+      "hi": 1.0,
+      "n_runs": 64
+    },
+    "share_flagged_sig_B_p05": {
+      "mean": 0.34479166666666666,
+      "lo": 0.0,
+      "hi": 1.0,
+      "n_runs": 64
+    },
+    "top10_oe_in_A": {
+      "mean": 1.759567716524906,
+      "lo": 1.5748164536216727,
+      "hi": 1.9753414603520971,
+      "n_runs": 100
+    },
+    "top10_oe_in_B": {
+      "mean": 1.2208616109633434,
+      "lo": 1.1075863695453383,
+      "hi": 1.385266871109261,
+      "n_runs": 100
+    },
+    "rest_oe_in_B": {
+      "mean": 0.9944605073075524,
+      "lo": 0.9652337643871679,
+      "hi": 1.0264665146757634,
+      "n_runs": 100
+    },
+    "top10_share_of_runs_p_lt_05_in_B": 0.91,
+    "top10_share_of_runs_above_expected_in_B": 1.0,
+    "rho_null_permuted": {
+      "mean": 0.005103157208345122,
+      "max": 0.18342159184451404
+    }
+  },
+  "construct_level": {
+    "rho_mean": 0.1941988598012502,
+    "rho_lo": 0.14343297636817026,
+    "rho_hi": 0.23731773772782075,
+    "n_constructs_mean": 505.84,
+    "tested": 431,
+    "hotspots_q05": 5
+  },
+  "pooled_rate": 0.12987012987012986,
+  "events": 39886,
+  "students": 6306,
+  "topics_tested": 153,
+  "hotspots_adjusted_q05": 3,
+  "hotspots_raw_q05": 12,
+  "raw_hotspots_surviving_adjustment": 3,
+  "z_sd_across_topics": 1.3683674695133523,
+  "sensitivity_no_latency": {
+    "hotspots_without_latency": 7,
+    "overlap_with_main": 3
+  }
+}

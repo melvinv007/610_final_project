@@ -1,0 +1,26 @@
+{
+  "rate_failed_checkin_retry_event_weighted": 0.13062985755265158,
+  "rate_other_answers_event_weighted": 0.009400497443945777,
+  "risk_difference": 0.1212293601087058,
+  "rd_ci": [
+    0.11060888019784083,
+    0.13267945194116132
+  ],
+  "risk_ratio": 13.896057983269962,
+  "rr_ci": [
+    12.90805948426073,
+    14.919050895312827
+  ],
+  "paired_students": 6410,
+  "paired_mean_rate_failed_retry": 0.26955470240667867,
+  "paired_mean_rate_other": 0.021795974079867376,
+  "paired_mean_diff": 0.24775872832681128,
+  "paired_diff_ci": [
+    0.23813716095497103,
+    0.25691731946993307
+  ],
+  "wilcoxon_stat": 700910.0,
+  "wilcoxon_p": 0.0,
+  "share_of_all_exits_after_failed_checkin_retry": 0.56524506683641,
+  "share_of_answer_events_that_are_failed_checkin_retry": 0.08557640863170483
+}

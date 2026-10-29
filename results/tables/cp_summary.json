@@ -1,0 +1,78 @@
+{
+  "failed_retry": {
+    "break_date": "2022-05-03",
+    "break_ci_days": [
+      "2022-04-26",
+      "2022-05-09"
+    ],
+    "lr_stat": 510.5484877777126,
+    "rate_before": 0.092329331390968,
+    "rate_after": 0.1671455938697318,
+    "n_before": 19907,
+    "n_after": 20880
+  },
+  "paired_students": {
+    "n_students": 372,
+    "mean_rate_before": 0.07717975770382067,
+    "mean_rate_after": 0.1936339983179307,
+    "mean_diff": 0.11645424061411006,
+    "diff_ci": [
+      0.09491696620250713,
+      0.13953475704313997
+    ],
+    "pooled_rate_before": 0.04808877928483354,
+    "pooled_rate_after": 0.12917624780197484
+  },
+  "by_year_group": [
+    {
+      "yg": 5.0,
+      "after": 0.2103,
+      "before": 0.1176
+    },
+    {
+      "yg": 6.0,
+      "after": 0.1744,
+      "before": 0.0847
+    },
+    {
+      "yg": 7.0,
+      "after": 0.1913,
+      "before": 0.1125
+    },
+    {
+      "yg": 8.0,
+      "after": 0.1704,
+      "before": 0.0833
+    },
+    {
+      "yg": 9.0,
+      "after": 0.1344,
+      "before": 0.0924
+    },
+    {
+      "yg": 10.0,
+      "after": 0.1639,
+      "before": 0.0696
+    },
+    {
+      "yg": 11.0,
+      "after": 0.1334,
+      "before": 0.0923
+    }
+  ],
+  "other_answers": {
+    "break_date": "2022-09-06",
+    "break_ci_days": [
+      "2022-04-26",
+      "2022-09-06"
+    ],
+    "lr_stat": 312.9331661623437,
+    "rate_before": 0.00853642398987314,
+    "rate_after": 0.01920190319748506,
+    "n_before": 400519,
+    "n_after": 35309
+  },
+  "break_date": "2022-05-03",
+  "ratio_before": 13.63079428693663,
+  "ratio_after": 14.710934744268078
+}

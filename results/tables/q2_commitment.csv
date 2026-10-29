@@ -1,0 +1,5 @@
+state,had_lesson,events,exit_rate
+CheckoutRetry_fail,0,1195,0.04686192468619247
+CheckoutRetry_fail,1,8997,0.01389352006224297
+Checkout_fail,0,2360,0.1
+Checkout_fail,1,17492,5.716899153898925e-05

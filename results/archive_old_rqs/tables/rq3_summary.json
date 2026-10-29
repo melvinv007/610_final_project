@@ -1,0 +1,110 @@
+{
+  "excluded_failed_retry_events_outside_Y5_11": 1095,
+  "excluded_students_outside_Y5_11": 187,
+  "trend": {
+    "unadjusted_event_weighted": {
+      "OR_per_year": 0.9315517694457843,
+      "lo": 0.8834778679001911,
+      "hi": 0.9822415825991107,
+      "p": 0.00872205874361906
+    },
+    "adjusted_event_weighted": {
+      "OR_per_year": 0.9498699186958754,
+      "lo": 0.9091387018827762,
+      "hi": 0.9924259747987771,
+      "p": 0.0214502460733071
+    },
+    "unadjusted_student_level_pp_per_year": {
+      "slope_pp": -0.933549762138686,
+      "lo": -1.5040678506948661,
+      "hi": -0.36303167358250577,
+      "p": 0.0013406783917991373,
+      "students": 6223
+    },
+    "adjusted_student_level_pp_per_year": {
+      "slope_pp": -0.840490015461894,
+      "lo": -1.3761031776724946,
+      "hi": -0.30487685325129327,
+      "p": 0.002100816808538853,
+      "students": 6223
+    }
+  },
+  "quadratic_term_p": 0.5213636540888819,
+  "older_vs_younger_adjusted_OR": {
+    "OR": 0.8251048690726803,
+    "lo": 0.6828108514737885,
+    "hi": 0.9970521755739543,
+    "p": 0.04653244231733608
+  },
+  "rate_Y5_7": 0.14913731978255731,
+  "rate_Y9_11": 0.1153657939809151,
+  "trend_other_answers_unadjusted": {
+    "OR_per_year": 0.9148097829349069,
+    "lo": 0.8812688421641331,
+    "hi": 0.9496272861506048,
+    "p": 2.9834743963031063e-06
+  },
+  "age_slope_interaction_failed_retry_vs_other": {
+    "OR_ratio": 1.018301057578522,
+    "lo": 0.9755362552916224,
+    "hi": 1.0629405501239513,
+    "p": 0.40739348460288405
+  },
+  "hotspots_young_vs_old": {
+    "young": [
+      5,
+      6,
+      7
+    ],
+    "old": [
+      9,
+      10,
+      11
+    ],
+    "events_young": 12402,
+    "events_old": 16009,
+    "topics_compared": 127,
+    "rho": 0.1635319982390111,
+    "rho_ci": [
+      -0.054943514678836514,
+      0.28038908650673133
+    ],
+    "reliability_young": 0.19721116795076846,
+    "reliability_old": 0.1836451129186566,
+    "rho_disattenuated": 0.8593049294864901,
+    "top10_overlap": 1,
+    "n_topics_age_differential_q05": 0,
+    "n_tested_for_difference": 85,
+    "hotspots_young_q05": 2,
+    "hotspots_old_q05": 1
+  },
+  "hotspots_young_vs_old_sensitivity_Y5_8_vs_Y9_11": {
+    "young": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "old": [
+      9,
+      10,
+      11
+    ],
+    "events_young": 22799,
+    "events_old": 16009,
+    "topics_compared": 145,
+    "rho": 0.24484248714348347,
+    "rho_ci": [
+      -0.0006437558879552087,
+      0.3016419834101675
+    ],
+    "reliability_young": 0.21580685357715532,
+    "reliability_old": 0.28615628221502154,
+    "rho_disattenuated": 0.9852637936064904,
+    "top10_overlap": 2,
+    "n_topics_age_differential_q05": 0,
+    "n_tested_for_difference": 105,
+    "hotspots_young_q05": 5,
+    "hotspots_old_q05": 1
+  }
+}

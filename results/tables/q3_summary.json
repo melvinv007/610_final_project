@@ -1,0 +1,12 @@
+{
+  "sessions": 83224,
+  "students": 10044,
+  "exit_rate": 0.11326059790445064,
+  "splithalf_r": 0.5651815016625171,
+  "spearman_brown": 0.7221929227532884,
+  "splithalf_students": 1751,
+  "students_ge5": 3357,
+  "share_never_exit_ge5": 0.4101876675603217,
+  "share_of_exits_by_top10pct": 0.5445034872135504,
+  "last_session_censored_share": 0.12068634047870808
+}

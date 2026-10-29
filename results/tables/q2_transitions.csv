@@ -1,0 +1,64 @@
+state,next_node,n,prob
+CheckinRetry_fail,Check-out,3098,0.07595557407997647
+CheckinRetry_fail,Check-out retry,0,0.0
+CheckinRetry_fail,Lesson,32141,0.7880206928678255
+CheckinRetry_fail,Next question,219,0.005369357883639395
+CheckinRetry_fail,Other,1,2.45176159070292e-05
+CheckinRetry_fail,Quit,5328,0.13062985755265158
+CheckinRetry_fail,Retry,0,0.0
+CheckinRetry_ok,Check-out,327,0.005439031286904742
+CheckinRetry_ok,Check-out retry,0,0.0
+CheckinRetry_ok,Lesson,1113,0.018512666123317974
+CheckinRetry_ok,Next question,57948,0.9638562232830459
+CheckinRetry_ok,Other,5,8.316561600771777e-05
+CheckinRetry_ok,Quit,723,0.01202574807471599
+CheckinRetry_ok,Retry,5,8.316561600771777e-05
+Checkin_fail,Check-out,0,0.0
+Checkin_fail,Check-out retry,0,0.0
+Checkin_fail,Lesson,1,9.84271343924093e-06
+Checkin_fail,Next question,17,0.0001673261284670958
+Checkin_fail,Other,0,0.0
+Checkin_fail,Quit,845,0.008317092856158587
+Checkin_fail,Retry,100735,0.9915057383019351
+Checkin_ok,Check-out,759,0.0035498807352322154
+Checkin_ok,Check-out retry,0,0.0
+Checkin_ok,Lesson,2947,0.013783265516112437
+Checkin_ok,Next question,208276,0.974117206865909
+Checkin_ok,Other,0,0.0
+Checkin_ok,Quit,1672,0.00782002712688836
+Checkin_ok,Retry,156,0.0007296197558580048
+CheckoutRetry_fail,Check-out,6,0.0005886970172684458
+CheckoutRetry_fail,Check-out retry,0,0.0
+CheckoutRetry_fail,Lesson,0,0.0
+CheckoutRetry_fail,Next question,9992,0.9803767660910518
+CheckoutRetry_fail,Other,13,0.0012755102040816326
+CheckoutRetry_fail,Quit,181,0.017759026687598115
+CheckoutRetry_fail,Retry,0,0.0
+CheckoutRetry_ok,Check-out,10,0.0010590976488032196
+CheckoutRetry_ok,Check-out retry,1,0.00010590976488032197
+CheckoutRetry_ok,Lesson,0,0.0
+CheckoutRetry_ok,Next question,9282,0.9830544376191485
+CheckoutRetry_ok,Other,22,0.0023300148273670833
+CheckoutRetry_ok,Quit,126,0.013344630374920568
+CheckoutRetry_ok,Retry,1,0.00010590976488032197
+Checkout_fail,Check-out,0,0.0
+Checkout_fail,Check-out retry,19584,0.9865001007455169
+Checkout_fail,Lesson,0,0.0
+Checkout_fail,Next question,31,0.0015615555107797703
+Checkout_fail,Other,0,0.0
+Checkout_fail,Quit,237,0.011938343743703405
+Checkout_fail,Retry,0,0.0
+Checkout_ok,Check-out,74,0.003555470138855523
+Checkout_ok,Check-out retry,49,0.002354297794647576
+Checkout_ok,Lesson,2,9.609378753663576e-05
+Checkout_ok,Next question,20193,0.9702109258636429
+Checkout_ok,Other,181,0.008696487772065536
+Checkout_ok,Quit,313,0.015038677749483496
+Checkout_ok,Retry,1,4.804689376831788e-05
+Lesson,Check-out,36180,0.9992818869800586
+Lesson,Check-out retry,0,0.0
+Lesson,Lesson,0,0.0
+Lesson,Next question,24,0.0006628735568690273
+Lesson,Other,1,2.7619731536209468e-05
+Lesson,Quit,1,2.7619731536209468e-05
+Lesson,Retry,0,0.0
